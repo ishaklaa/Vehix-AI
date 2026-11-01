@@ -1,1 +1,23 @@
-/road_vehicle_final
+# Dataset
+/road_vehicle_final/
+trafic_data/
+datasets/
+
+# YOLOv9 repository
+/notebooks/yolov9/
+
+# Model weights
+*.pt
+*.onnx
+*.engine
+
+# Training results
+runs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
